@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "bettertropical",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "group": "cooked_tropical",
+  "ingredient": {
+    "item": "bettertropical:cooked_tropical"
+  },
+  "result": "bettertropical:scorched_tropical"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "bettertropical",
+  "version": "${version}",
+  "name": "BetterTropical",
+  "description": "a mod can let your Tropical be better",
+  "authors": [
+    "Kalud"
+  ],
+  "contact": {
+    "website": "pixelskider.github.io",
+    "repo": "https://github.com/pixelskider/BetterTropical"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/bettertropical/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.pixelskider.bettertropical.client.BetterTropicalClient"
+    ],
+    "main": [
+      "io.github.pixelskider.bettertropical.BetterTropical"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
