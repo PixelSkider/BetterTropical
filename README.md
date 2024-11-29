@@ -1,6 +1,6 @@
 # BetterTropical Mod介绍
 
-这是一个由Java编写的1.18.1 Fabric Mod
+这是一个由Java编写的1.18.2 Fabric Mod
 
 ## 功能列表
 - 添加了热带鱼熔炉与烟熏炉子等可以烧食物的配方
